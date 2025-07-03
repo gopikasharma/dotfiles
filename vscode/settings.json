@@ -1,0 +1,10 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultLocation": "editor",
+    "terminal.integrated.fontSize": 14,
+    "workbench.activityBar.location": "top",
+    "workbench.startupEditor": "none"
+}
