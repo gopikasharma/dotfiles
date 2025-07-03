@@ -1,0 +1,7 @@
+[user]
+	name = Gopika M Sharma
+	email = in.gopikasharma@gmail.com
+[init]
+    defaultBranch = main
+[merge]
+	conflictstyle = diff3
